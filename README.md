@@ -4,7 +4,7 @@ Este projeto é uma landing page desenvolvida para apresentar meus serviços com
 
 ## 📸 Visite a página
 
-👉 [marcelo-gestor.vercel.app](https://marcelods.com.br/)
+👉 [trafego.marcelods.com](https://trafego.marcelods.com/)
 
 ## 🛠️ Tecnologias Utilizadas
 
