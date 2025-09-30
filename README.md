@@ -12,7 +12,7 @@ Este projeto é uma landing page desenvolvida para apresentar meus serviços com
 - **Vite**
 - **Tailwind CSS**
 - **TypeScript**
-- **Deploy na Vercel**
+- **Deploy na HostGator**
 
 ## 💡 Objetivo
 
